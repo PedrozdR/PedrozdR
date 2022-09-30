@@ -11,7 +11,7 @@ I am always available for a chat, feel free to message me on [Linkedin][linkedin
 
 #
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 <img align="left" alt="React-Native" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -26,7 +26,7 @@ I am always available for a chat, feel free to message me on [Linkedin][linkedin
 
 #
 
-## 📊 Stats
+### 📊 Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrozdR&show_icons=true&theme=gruvbox)
 
