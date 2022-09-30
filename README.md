@@ -32,7 +32,7 @@ I am always available for a chat, feel free to message me on [Linkedin][linkedin
 
 #
 
-## 🛣️ My Coding Journey
+### 🛣️ My Coding Journey
 
   When I started my first job I didn't have much experience with React-Native and from the beginning, I worked for free and after 3 months they hired me, and together we made a lot of apps, some apps I made alone from scratch and others working on a team. After two years I made one of the biggest decisions in my career, it was to left my comfortable job to work with flutter without any knowledge. With Flutter, I've developed a school management app for more than thirty thousand users and another app for management schools' libraries. After working with flutter, I came back to react-native and worked in one of the biggest banks in Brazil, with more than eight million users. In this job, I worked in some teams, one to implement new features for the bank and the other team was to develop accessible features to People with visual impairment.
 
